@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Interpolate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:HalfSpace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.lib||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:HalfSpace.lib||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Raster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Raster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SimpleRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:SimpleRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:SnubDodecMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:SnubDodecMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Interpolate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\InterpolationTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:InterpolationTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:RasterUtilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:RasterUtilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:CameraRender2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Projection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:CameraRender2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:FrustumMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Affine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Affine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CubeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:CubeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Downloads\\ssssssssssad\\AffineTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:FrustumMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABC44A1-16E8-48A2-A0C0-719102F4E2F9}|CS200.vcxproj|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2DTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CameraRender2DTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HalfSpace.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.h",
+              "RelativeDocumentMoniker": "HalfSpace.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.h",
+              "RelativeToolTip": "HalfSpace.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T17:27:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HalfSpace.lib",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.lib",
+              "RelativeDocumentMoniker": "HalfSpace.lib",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\HalfSpace.lib",
+              "RelativeToolTip": "HalfSpace.lib",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB8SURBVDhPxZMxDoAgDEXBOHE2FvWc6sLZWEtaC5EKCRGibyg/zc\u002BnKUF1AQCaZYb3HlhmGGMefl0zW2tZXTjnWOXMWGrmYz/pXLeFzpKPAhBpRu46In0T1Q5SACaWbpRI37gJ3jIuALcbNxxp6aVnLC2wpff/BNW/8BFKBcE6Q\u002BulzY11AAAAAElFTkSuQmCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2026-04-15T17:27:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnubDodecMesh.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.h",
+              "RelativeDocumentMoniker": "SnubDodecMesh.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.h",
+              "RelativeToolTip": "SnubDodecMesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T17:16:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interpolate.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.cpp",
+              "RelativeDocumentMoniker": "Interpolate.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.cpp",
+              "RelativeToolTip": "Interpolate.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwHkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T12:27:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleRender.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SimpleRender.cpp",
+              "RelativeDocumentMoniker": "SimpleRender.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SimpleRender.cpp",
+              "RelativeToolTip": "SimpleRender.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:51:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Raster.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Raster.h",
+              "RelativeDocumentMoniker": "Raster.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Raster.h",
+              "RelativeToolTip": "Raster.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAMwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-09T07:20:03.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnubDodecMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.cpp",
+              "RelativeDocumentMoniker": "SnubDodecMesh.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\SnubDodecMesh.cpp",
+              "RelativeToolTip": "SnubDodecMesh.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T17:16:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterpolationTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\InterpolationTest.cpp",
+              "RelativeDocumentMoniker": "InterpolationTest.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\InterpolationTest.cpp",
+              "RelativeToolTip": "InterpolationTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T12:27:52.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Interpolate.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.h",
+              "RelativeDocumentMoniker": "Interpolate.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Interpolate.h",
+              "RelativeToolTip": "Interpolate.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T12:27:52.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Texture.cpp",
+              "RelativeDocumentMoniker": "Texture.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Texture.cpp",
+              "RelativeToolTip": "Texture.cpp",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T12:40:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RasterUtilities.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.cpp",
+              "RelativeDocumentMoniker": "RasterUtilities.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.cpp",
+              "RelativeToolTip": "RasterUtilities.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T07:25:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RasterUtilities.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.h",
+              "RelativeDocumentMoniker": "RasterUtilities.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\RasterUtilities.h",
+              "RelativeToolTip": "RasterUtilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-09T07:19:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mesh.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Mesh.h",
+              "RelativeDocumentMoniker": "Mesh.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Mesh.h",
+              "RelativeToolTip": "Mesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-30T14:06:46.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Projection.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.h",
+              "RelativeDocumentMoniker": "Projection.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.h",
+              "RelativeToolTip": "Projection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-30T11:34:18.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Projection.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.cpp",
+              "RelativeDocumentMoniker": "Projection.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Projection.cpp",
+              "RelativeToolTip": "Projection.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T11:34:17.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.cpp",
+              "RelativeDocumentMoniker": "Render.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.cpp",
+              "RelativeToolTip": "Render.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:52:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraRender2D.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.cpp",
+              "RelativeDocumentMoniker": "CameraRender2D.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.cpp",
+              "RelativeToolTip": "CameraRender2D.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T11:37:41.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraRender2D.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.h",
+              "RelativeDocumentMoniker": "CameraRender2D.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2D.h",
+              "RelativeToolTip": "CameraRender2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-30T11:37:24.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CameraRender2DTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2DTest.cpp",
+              "RelativeDocumentMoniker": "CameraRender2DTest.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CameraRender2DTest.cpp",
+              "RelativeToolTip": "CameraRender2DTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T11:34:02.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.cpp",
+              "RelativeDocumentMoniker": "Camera.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.cpp",
+              "RelativeToolTip": "Camera.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:51:39.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Affine.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Affine.cpp",
+              "RelativeDocumentMoniker": "Affine.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Affine.cpp",
+              "RelativeToolTip": "Affine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:59:37.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrustumMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.cpp",
+              "RelativeDocumentMoniker": "FrustumMesh.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.cpp",
+              "RelativeToolTip": "FrustumMesh.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:51:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CubeMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CubeMesh.cpp",
+              "RelativeDocumentMoniker": "CubeMesh.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\CubeMesh.cpp",
+              "RelativeToolTip": "CubeMesh.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T09:13:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrustumMesh.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.h",
+              "RelativeDocumentMoniker": "FrustumMesh.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\FrustumMesh.h",
+              "RelativeToolTip": "FrustumMesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T09:06:44.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Render.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.h",
+              "RelativeDocumentMoniker": "Render.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Render.h",
+              "RelativeToolTip": "Render.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T08:52:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AffineTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\ssssssssssad\\AffineTest.cpp",
+              "RelativeDocumentMoniker": "..\\..\\ssssssssssad\\AffineTest.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\ssssssssssad\\AffineTest.cpp",
+              "RelativeToolTip": "..\\..\\ssssssssssad\\AffineTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T09:17:17.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.h",
+              "RelativeDocumentMoniker": "Camera.h",
+              "ToolTip": "C:\\Users\\dskt\\Downloads\\CS200_Framework\\visual_studio\\Camera.h",
+              "RelativeToolTip": "Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T09:01:11.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

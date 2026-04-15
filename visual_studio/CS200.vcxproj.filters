@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Affine.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CubeMesh.cpp" />
+    <ClCompile Include="FrustumMesh.cpp" />
+    <ClCompile Include="Render.cpp" />
+    <ClCompile Include="SimpleRender.cpp" />
+    <ClCompile Include="SnubDodecMesh.cpp" />
+    <ClCompile Include="Projection.cpp" />
+    <ClCompile Include="CameraRender2D.cpp" />
+    <ClCompile Include="RasterUtilities.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="Interpolate.cpp" />
+    <ClCompile Include="InterpolationTest.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Affine.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CubeMesh.h" />
+    <ClInclude Include="FrustumMesh.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="Render.h" />
+    <ClInclude Include="SimpleRender.h" />
+    <ClInclude Include="SnubDodecMesh.h" />
+    <ClInclude Include="CameraRender2D.h" />
+    <ClInclude Include="Projection.h" />
+    <ClInclude Include="Raster.h" />
+    <ClInclude Include="RasterUtilities.h" />
+    <ClInclude Include="HalfSpace.h" />
+    <ClInclude Include="Interpolate.h" />
+    <ClInclude Include="Texture.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="HalfSpace.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="texture.bmp" />
+  </ItemGroup>
+</Project>

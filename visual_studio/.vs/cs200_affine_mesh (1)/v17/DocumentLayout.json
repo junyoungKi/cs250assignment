@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CubeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Affine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AffineDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Affine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CubeMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CubeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeRenderDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CubeRenderDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AffineTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CubeMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.cpp",
+              "RelativeDocumentMoniker": "CubeMesh.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.cpp",
+              "RelativeToolTip": "CubeMesh.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:38:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Affine.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.cpp",
+              "RelativeDocumentMoniker": "Affine.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.cpp",
+              "RelativeToolTip": "Affine.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwH4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:38:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AffineDemo.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineDemo.cpp",
+              "RelativeDocumentMoniker": "AffineDemo.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineDemo.cpp",
+              "RelativeToolTip": "AffineDemo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:38:05.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CppProperties.json",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CppProperties.json",
+              "RelativeDocumentMoniker": "CppProperties.json",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CppProperties.json",
+              "RelativeToolTip": "CppProperties.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T16:37:56.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Affine.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.h",
+              "RelativeDocumentMoniker": "Affine.h",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Affine.h",
+              "RelativeToolTip": "Affine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-24T16:37:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CubeMesh.h",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.h",
+              "RelativeDocumentMoniker": "CubeMesh.h",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeMesh.h",
+              "RelativeToolTip": "CubeMesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-24T16:36:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CubeTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeTest.cpp",
+              "RelativeDocumentMoniker": "CubeTest.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeTest.cpp",
+              "RelativeToolTip": "CubeTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:36:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CubeRenderDemo.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeRenderDemo.cpp",
+              "RelativeDocumentMoniker": "CubeRenderDemo.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\CubeRenderDemo.cpp",
+              "RelativeToolTip": "CubeRenderDemo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:36:55.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Render.cpp",
+              "RelativeDocumentMoniker": "Render.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\Render.cpp",
+              "RelativeToolTip": "Render.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:36:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AffineTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineTest.cpp",
+              "RelativeDocumentMoniker": "AffineTest.cpp",
+              "ToolTip": "C:\\Users\\dskt\\Desktop\\cs200_affine_mesh (1)\\AffineTest.cpp",
+              "RelativeToolTip": "AffineTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T16:36:47.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

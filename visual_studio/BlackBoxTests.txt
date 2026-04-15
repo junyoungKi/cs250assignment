@@ -1,0 +1,12 @@
+Here are two more test drivers with which to test your 'Affine' package.
+
+Since I don't want to give you the actual test driver code (as they contain implementations of the 'Affine' package functions), I've given them to you in binary form.  To compile each test, you can type on the Visual Studio command line:
+
+cl /permissive- /GS /GL /W4 /Gy- /FeVectorTest.exe /MD /Zi /Gm- /Ox /Ob2 /sdl /Zc:inline /fp:fast /fp:except- /errorReport:prompt /WX /Zc:forScope /Gd /Oi /std:c++latest /FC /EHsc /nologo /Ot /diagnostics:classic Affine.cpp /link /MANIFEST /LTCG:incremental /NXCOMPAT /PDB:"VectorTest.pdb" /DYNAMICBASE VectorTest.lib /DEBUG:FULL /MACHINE:X64 /OPT:REF /SUBSYSTEM:CONSOLE /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /ManifestFile:"VectorTest.exe.intermediate.manifest" /OPT:ICF /ERRORREPORT:PROMPT /NOLOGO /TLBID:1
+
+cl /permissive- /GS /GL /W4 /Gy- /FeTransformTest.exe /MD /Zi /Gm- /Ox /Ob2 /sdl /Zc:inline /fp:fast /fp:except- /errorReport:prompt /WX /Zc:forScope /Gd /Oi /std:c++latest /FC /EHsc /nologo /Ot /diagnostics:classic Affine.cpp /link /MANIFEST /LTCG:incremental /NXCOMPAT /PDB:"TransformTest.pdb" /DYNAMICBASE TransformTest.lib /DEBUG:FULL /MACHINE:X64 /OPT:REF /SUBSYSTEM:CONSOLE /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /ManifestFile:"TransformTest.exe.intermediate.manifest" /OPT:ICF /ERRORREPORT:PROMPT /NOLOGO /TLBID:1
+
+If all goes well, this will produce two executables: 'VectorTest.exe' and 'TransformTest.exe', which you can then run.
+
+These object files are for use with Visual Studio 2019 only.
+
